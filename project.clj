@@ -3,5 +3,6 @@
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.6.0"]
-                 [expresso "0.2.1-SNAPSHOT"]])
+  :dependencies [[org.clojure/clojure "1.7.0-RC2"]
+                 [net.mikera/core.matrix "0.36.1"]
+                 [expresso "0.2.2-SNAPSHOT"]])
